@@ -1,0 +1,17 @@
+
+.botonCarrito{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.carrito{
+    color: white;
+    width: 2rem;
+    height: 2rem;
+    display: flex;
+}
+
+.contadorCarrito{
+    color: white;
+}
